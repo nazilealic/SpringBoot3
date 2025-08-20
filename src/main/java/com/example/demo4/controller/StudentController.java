@@ -9,21 +9,7 @@ public class StudentController {
 
     }
 
-    // CREATE
-    }
 
-    // READ
-    }
 
-    // UPDATE
-    }
 
-    // DELETE
-    public void deleteStudent(@PathVariable Long id) {
-    }
 
-    // RELATION (Many-to-Many)
-    }
-
-    }
-}
